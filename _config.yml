@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Plant a Post
-tagline:          ''
+tagline:          'Blog of Plant a Page'
 description:      'Offical blog of <a href="https://plantapage.com">Plant a Page</a>.'
 url:              https://blog.plantapage.com/
 baseurl:          /
